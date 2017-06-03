@@ -29,7 +29,6 @@ User Name: john
 Password: john123
 
 For Salesman:
-
 User Name: cary
 Password: cary123
 
