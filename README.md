@@ -15,6 +15,7 @@ Identified users:
 The system has a user-friendly interface therefore novice users can use easily. The manager and sales executive both can access the system using their login credentials.
 Manager: After logging into this system manager can modify car details, check sales, generate performance reports, manage employee details, manage customer details and offer discounts on cars.
 Employee: Each sales executive has unique username and password and they can look to customer details and sell cars.
+
 Language & framework used to develop: C#.NET and SQL
 
 This system uses Report Viewer. Please install "SQL SERVER DATA TOOLS" to generate reports.
@@ -26,11 +27,13 @@ Please wait for a while for the login to process.
 For Manager:
 
 User Name: john
+
 Password: john123
 
 For Salesman:
 
 User Name: cary
+
 Password: cary123
 
 The project was developed to accomplish the study program. The data in any form in the project is only for demo and has no association to the real companies or products. There are limitations to some functionality and less features in the project due to limited time for development.
