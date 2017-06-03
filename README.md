@@ -18,13 +18,18 @@ Employee: Each sales executive has unique username and password and they can loo
 Language & framework used to develop: C#.NET and SQL
 
 This system uses Report Viewer. Please install "SQL SERVER DATA TOOLS" to generate reports.
+
 Login Credentials for the application:
+
 Please wait for a while for the login to process.
+
 For Manager:
+
 User Name: john
 Password: john123
 
 For Salesman:
+
 User Name: cary
 Password: cary123
 
